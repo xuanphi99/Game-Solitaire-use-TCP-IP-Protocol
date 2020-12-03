@@ -1,0 +1,2 @@
+view.HomeView
+view.ReadClient
